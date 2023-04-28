@@ -1,11 +1,18 @@
 # LabView_Icons
 
-Icons for LabView Development
+Icons for LabView Development based on different icon sets.
 
+
+## Installation 
+
+1. Copy the folders `Glyphs` and `Icon Templates` to `%UserProfile%\Documents\LabVIEW Data`.
+2. Open the Icon Editor within LabView and refresh the Glyphs.
+
+The images in the folder `Buttons` can be used for self designed controls.
 
 ## MNProjects
 
-Own designed icons or icons with additional name for faster search.
+Own designed icons or icons with additional name for faster search within the Icon Editor.
 
 
 ## Free FatCow-Farm Fresh Icons
